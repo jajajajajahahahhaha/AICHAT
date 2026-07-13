@@ -1,6 +1,11 @@
 {
   "chats": [
     {
+      "id": "f64ee0b2-ecbb-4977-a190-d6bf0b560e64",
+      "title": "این کد رو تست کن: print(sum(i*i for i in range(1,101)))",
+      "updated_at": 1783966940
+    },
+    {
       "id": "bed4eb9f-1fbd-4b66-92cc-a11ad30d6e97",
       "title": "یه ریپو جدید توی گیت‌هابم بساز به اسم test-god و README قشنگ…",
       "updated_at": 1783966932
